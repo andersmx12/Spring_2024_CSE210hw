@@ -1,3 +1,31 @@
 git add .
 git commit -m "Message"
 git push
+
+   ________Python________       |       vs          |    ________C#________
+                                |                   |
+#comment                        |                   | // comment
+                                |                   |
+user_input = input('prompt')    |                   | string userInput;
+                                |                   | Console.Write('Prompt');
+                                |                   | userInput = Console.ReadLine();
+                                |                   |
+int                             |                   | int   i;
+float                           |                   | float f;
+                                |                   |
+print('')                       |                   | Console.WriteLine('')
+                                |                   |
++                               |                   | +
+-                               |                   | -
+*                               |                   | *
+/ or //                         |                   | / but no //
+%    Mod                        |                   | %
+>                               |                   | >
+<                               |                   | <
+= assign                        |                   | =
+== equals                       |                   | ==
+!=                              |                   | !=
+and                             |                   | &&
+or                              |                   | ||
+not                             |                   | !
+
