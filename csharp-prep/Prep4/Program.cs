@@ -9,7 +9,7 @@ class Program
         int sum_num = 0; 
         int num_num = 0;
         // Loop
-        while (userNum != 0){
+        //while (userNum != 0){
         Console.Write("Enter a number: ");
         string user_num = Console.ReadLine();
         int userNum = int.Parse(user_num);
@@ -18,5 +18,5 @@ class Program
         num_num += 1;
         numbers.Add(userNum);
     }
-    }
+    
 }
